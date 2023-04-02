@@ -1,0 +1,6 @@
+package dictionary_app.com.dictionary_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
